@@ -1,0 +1,9 @@
+# make sure you have all of this (you'll need to add the last 2 lines):
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+.DS_Store 
+Thumbs.db 
+/public
+/resources
