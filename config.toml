@@ -17,7 +17,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$"]
     url = "https://github.com/mpmccord"
 [[menu.main]]
     name = "CV"
-    url = "pdf/CV.pdf"
+    url = "CV.pdf"
 [[menu.main]]
     name = "Research"
     url = "/research/"
