@@ -35,10 +35,10 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$"]
     MathJaxVersion = "2.7.5"
 
     # path to the favicon, under "static"
-    favicon = "/img/icons8-calico-cat-48.png"
+    favicon = "calico.png"
 
     [params.logo]
-    url = "/img/icons8-calico-cat-48.png"
+    url = "/img/calico.png"
     width = 48
     height = 48
     alt = "Home"
