@@ -17,7 +17,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$"]
     url = "https://github.com/mpmccord"
 [[menu.main]]
     name = "CV"
-    url = "CV.pdf"
+    url = "/cv/"
 [[menu.main]]
     name = "Research"
     url = "/research/"
@@ -35,7 +35,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$"]
     MathJaxVersion = "2.7.5"
 
     # path to the favicon, under "static"
-    favicon = "calico.png"
+    favicon = "/img/calico.png"
 
     [params.logo]
     url = "/img/calico.png"
